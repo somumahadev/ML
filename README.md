@@ -1,1 +1,1 @@
-# Feature Extraction and Classification Pipeline for MNIST Dataset using HOG and GLCM
+# Feature Extraction and Classification Pipelines
